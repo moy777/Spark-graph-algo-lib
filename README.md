@@ -20,11 +20,11 @@ Building
  
     mvn package
 
- Obtain "boostkit-graph-acc_2.11-1.3.0-spark2.3.2.jar" from the "Spark-graph-algo-lib/graph-accelerator/target/" directory
+ Obtain "boostkit-graph-acc_2.11-1.3.0-spark2.4.6.jar" from the "Spark-graph-algo-lib/graph-accelerator/target/" directory
 
- Obtain "boostkit-graph-core_2.11-1.3.0-spark2.3.2.jar" from the "Spark-graph-algo-lib/graph-core/target/" directory
+ Obtain "boostkit-graph-core_2.11-1.3.0-spark2.4.6.jar" from the "Spark-graph-algo-lib/graph-core/target/" directory
  
- Obtain "boostkit-graph-kernel-clinet_2.11-1.3.0-spark2.3.2.jar" from the "Spark-graph-algo-lib/graph-kernel/target/" directory
+ Obtain "boostkit-graph-kernel-clinet_2.11-1.3.0-spark2.4.6.jar" from the "Spark-graph-algo-lib/graph-kernel/target/" directory
  
 
 
